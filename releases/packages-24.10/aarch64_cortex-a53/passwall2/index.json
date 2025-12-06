@@ -2,8 +2,8 @@
   "version": 2,
   "architecture": "aarch64_cortex-a53",
   "packages": {
-    "luci-app-passwall2": "25.12.2-r1",
-    "luci-i18n-passwall2-zh-cn": "25.12.2",
-    "luci-i18n-passwall2-zh-tw": "25.12.2"
+    "luci-app-passwall2": "25.11.18-r1",
+    "luci-i18n-passwall2-zh-cn": "25.11.18",
+    "luci-i18n-passwall2-zh-tw": "25.11.18"
   }
 }

@@ -1,44 +1,44 @@
 Package: luci-app-passwall2
-Version: 25.12.2-r1
+Version: 25.11.18-r1
 Depends: libc, coreutils, coreutils-base64, coreutils-nohup, curl, ip-full, libuci-lua, lua, luci-compat, luci-lib-jsonc, resolveip, tcping, xray-core, geoview, v2ray-geoip, v2ray-geosite, unzip, luci-lua-runtime
 Source: feeds/passwall2/luci-app-passwall2
 SourceName: luci-app-passwall2
 Section: luci
-SourceDateEpoch: 1764612096
+SourceDateEpoch: 1763481359
 URL: https://github.com/openwrt/luci
 Maintainer: OpenWrt LuCI community
 Architecture: all
-Installed-Size: 1126400
-Filename: luci-app-passwall2_25.12.2-r1_all.ipk
-Size: 287466
-SHA256sum: 747fcb823a5c1fa0534d567becf2a75fba971b4cec10c6e29e9243702d701bc0
+Installed-Size: 1064960
+Filename: luci-app-passwall2_25.11.18-r1_all.ipk
+Size: 269954
+SHA256sum: 2894f42760ac41712734b3fd6c4c171896540c0d9ca60c890176bf80b79c368f
 Description:  LuCI support for PassWall 2
 
 Package: luci-i18n-passwall2-zh-cn
-Version: 25.12.2
+Version: 25.11.18
 Depends: libc, luci-app-passwall2
 Source: feeds/passwall2/luci-app-passwall2
 SourceName: luci-app-passwall2
 Section: luci
-SourceDateEpoch: 1764612096
+SourceDateEpoch: 1763481359
 Architecture: all
 Installed-Size: 51200
-Filename: luci-i18n-passwall2-zh-cn_25.12.2_all.ipk
-Size: 18777
-SHA256sum: a423eb916eb269321d9c4a955a978cdcba01a0026ed749743dab46e6bdc7aa57
+Filename: luci-i18n-passwall2-zh-cn_25.11.18_all.ipk
+Size: 18648
+SHA256sum: f0b6ea259ae8fcf2f1afd67fa785217c543f6cb755c2b413f5f85ee5142ecc89
 Description:  Translation for luci-app-passwall2 - 简体中文 (Simplified Chinese)
 
 Package: luci-i18n-passwall2-zh-tw
-Version: 25.12.2
+Version: 25.11.18
 Depends: libc, luci-app-passwall2
 Source: feeds/passwall2/luci-app-passwall2
 SourceName: luci-app-passwall2
 Section: luci
-SourceDateEpoch: 1764612096
+SourceDateEpoch: 1763481359
 Architecture: all
 Installed-Size: 51200
-Filename: luci-i18n-passwall2-zh-tw_25.12.2_all.ipk
-Size: 18807
-SHA256sum: 2bc7c85f96950decb0d2084b4a1cb42070269ee25a2e41c7d5f5ae83d23a7998
+Filename: luci-i18n-passwall2-zh-tw_25.11.18_all.ipk
+Size: 18666
+SHA256sum: 3675781c822c1d9434951a88fc7255186da79cce6c23468c1e7c00db9a57a267
 Description:  Translation for luci-app-passwall2 - 正體中文 (Traditional Chinese)
 
